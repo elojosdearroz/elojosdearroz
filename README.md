@@ -64,7 +64,7 @@
 ### Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elojosdearroz&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
 
 
 <h2 style="color: #fc6203">R E S T &nbsp; A T &nbsp; B O N F I R E !</h2>
