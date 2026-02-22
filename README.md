@@ -1,10 +1,10 @@
 <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 <p>
-  <h1 align="center"><b>Hello there, I'm elojosdearroz👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm nacho</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+  <h4 align="center"><b><i>"The cake is a lie."</i></b></h4>
 </p>
 
 
@@ -27,7 +27,6 @@
 - 🎓 Systems Engineering student eager to learn.
 - 🎮 Interested in game development, with experience in small projects.
 - 🐍 Focused on improving my Python skills, especially for AI.
-- 🧠 Exploring assembly language as a hobby.
 - 🗃️ Basic knowledge of databases.
 - 🤝 Open to collaboration and growing as a developer.
 
@@ -37,6 +36,8 @@
 
 <h4>languages</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <img src="https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white" alt="go" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -45,7 +46,6 @@
 
   - <h5>currently learning</h5>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     </div>
 
